@@ -107,6 +107,12 @@ nav li.active {
     width: 100% !important;
 }
 
+.vertical-center
+{
+    display: table-cell;
+    float: none;
+    vertical-align: middle;
+}
 
 
 /*Below is social media button styles*/
